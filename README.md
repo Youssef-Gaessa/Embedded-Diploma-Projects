@@ -1,4 +1,4 @@
-System Overview:
+STOP_WATCH
 
 1. Microcontroller: ATmega32 running at a clock frequency of 1 MHz.
 
